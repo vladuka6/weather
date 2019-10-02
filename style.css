@@ -1,0 +1,104 @@
+    
+    body{
+        background-color: blue;
+        border:10px solid #2B81AC;
+        min-height: calc(100vh - 20px);
+        margin: 0;
+    }
+    header{
+        padding-right: 200px;
+        padding-left: 200px;
+    }     
+    *{transition: all .1s ease-in;
+    }
+    li{
+    font-size: 16px;
+    display: inline-block;
+    width:300px;
+    text-align: center;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+   
+      }
+      .first{
+        margin: 0;
+        padding: 0;
+        font-size: 0;
+      }
+       .container-1{
+        margin: 0 auto;
+        padding-right: 200px;
+        padding-left: 200px;
+
+    }
+    .size-1{
+        width: 50%;
+        background-color:#71B9DC;
+       
+    }    
+    .size-2{
+        width: 25%;
+        background-color:#B6F1F2
+        
+    }
+    .size-3{
+        width: 25%;
+        background-color: #996699;
+        border-right:1px solid white;
+    }    
+    .size-4{
+        width: 25%;
+       background-color:#C24747;}
+
+    .size-5{
+        width: 25%;
+        background-color: #E2674A;
+    }   
+    .size-6{
+        width: 25%;
+        background-color: #FFCC66;
+    }    
+    .size-7{
+        width: 25%;
+        background-color: #99CC99;
+        border-right:1px solid white; 
+    }    
+    .size-8{
+        width: 25%;
+        background-color: #669999;
+            }    
+    .size-9{
+            width: 50%;
+            background-color: #CC6699;
+            
+        }    
+    .size-10{
+            width: 25%;
+            background-color: #339966;
+            border-right:1px solid white; 
+    }  
+    .size-11{
+        width: 100%; 
+        background-color:#666699;
+        border-right:1px solid white;
+        border-bottom:1px solid white;  
+    }
+    h2{
+   margin-bottom: 10px;
+   margin-bottom: 10px;
+   font-family: Lucida Sans Unicode,serif;}
+    p{
+        padding-left: 200px;
+            }
+            i{
+                margin:3px;
+            }
+            ul:hover li{
+                opacity: 0.6;
+            }
+            ul li:hover{
+                opacity: 1;
+            }
+            
